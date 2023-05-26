@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Submission Fundamental</string>
+    <string name="search_hint">Masukkan kata</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="quote">When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom!? No! It’s when… they are FORGOTTEN.</string>
+    <string name="author">- Dr. Hiluluk</string>
+    <string name="show_list_quotes">Show me list of quotes</string>
+    <string name="this_activity">Menu untuk Activity</string>
+    <string name="searchbar_hint">Masukan Kata</string>
+</resources>
